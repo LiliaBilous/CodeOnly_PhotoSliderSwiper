@@ -33,8 +33,6 @@ body{
 .slider__slide {
     flex-shrink: 0;
 }
-.slide {
-}
 
 .slide__body {
     width: 60vh;
@@ -163,5 +161,5 @@ body{
 .text.active {
     transform: translate(-50%, 100%);
     opacity: 0;
-    
+
 }
